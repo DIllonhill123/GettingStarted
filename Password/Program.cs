@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Password
 {
-    class ProgramC:\Users\DillonH\Documents\GitHub\GettingStarted\Password\Program.cs
+    class Program
     {
         static void Main(string[] args)
         {
@@ -21,10 +21,14 @@ namespace Password
                 if (user == "root" && pass == "Letmein")
                 {
                     Console.WriteLine("Welcome!");
-                    a = 3;
+                    a = 4;
+                }
+
+                if (a == 3)
+                {
+                    Console.WriteLine("Too many attempts. Try again Later");
                 }
             }
-            Console.WriteLine("Too many attempts. Try again Later");
         
         }
     }
