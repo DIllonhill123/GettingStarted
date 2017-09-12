@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "..\ConsoleAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grade", "..\Grade\Grade.csproj", "{61909A52-70A3-4C93-AC2D-A28259F4B5A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "..\Palindrome\Palindrome.csproj", "{242AE2E2-4FEF-4EBE-81C5-6C97680CEE24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{61909A52-70A3-4C93-AC2D-A28259F4B5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61909A52-70A3-4C93-AC2D-A28259F4B5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61909A52-70A3-4C93-AC2D-A28259F4B5A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{242AE2E2-4FEF-4EBE-81C5-6C97680CEE24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{242AE2E2-4FEF-4EBE-81C5-6C97680CEE24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{242AE2E2-4FEF-4EBE-81C5-6C97680CEE24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{242AE2E2-4FEF-4EBE-81C5-6C97680CEE24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
