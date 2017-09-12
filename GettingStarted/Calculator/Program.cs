@@ -10,6 +10,12 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Calculatematron 3000 is ready to compute");
+            Console.WriteLine("Eneter an Expression:");
+            string input = Console.ReadLine();
+
+            
+
         }
     }
 }

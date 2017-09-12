@@ -7,7 +7,7 @@
     <ProjectGuid>{79C0E9D9-E5C9-41EE-B601-3DF5801DF5A8}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Prime_Numbers</RootNamespace>
-    <AssemblyName>Prime_Numbers</AssemblyName>
+    <AssemblyName>Prime Numbers</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

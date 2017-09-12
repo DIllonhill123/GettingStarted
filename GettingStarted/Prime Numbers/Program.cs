@@ -10,6 +10,7 @@ namespace Prime_Numbers
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
