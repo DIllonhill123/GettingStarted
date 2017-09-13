@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\GettingStarted\PerfectNumbers\bin\Debug\PerfectNumbers.exe.config
+C:\Users\eahscs\Documents\GitHub\GettingStarted\PerfectNumbers\bin\Debug\PerfectNumbers.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\PerfectNumbers\bin\Debug\PerfectNumbers.pdb
+C:\Users\eahscs\Documents\GitHub\GettingStarted\PerfectNumbers\obj\Debug\PerfectNumbers.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\PerfectNumbers\obj\Debug\PerfectNumbers.pdb

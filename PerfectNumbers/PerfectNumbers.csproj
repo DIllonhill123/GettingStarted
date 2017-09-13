@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{79C0E9D9-E5C9-41EE-B601-3DF5801DF5A8}</ProjectGuid>
+    <ProjectGuid>{A75DE50F-427A-4E3F-807B-449F1F4572DF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Prime_Numbers</RootNamespace>
-    <AssemblyName>Prime Numbers</AssemblyName>
+    <RootNamespace>PerfectNumbers</RootNamespace>
+    <AssemblyName>PerfectNumbers</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\..\..\..\Desktop\PrimeSolver.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
